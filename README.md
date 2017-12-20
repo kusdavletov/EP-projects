@@ -1,5 +1,7 @@
-# Matrix Calculator project (read the pdf file for more information)
+# Matrix calculator 
+###### (read the pdf file for more information)
 
+Functionalities:
 - matrix creation
 - matrix deletion
 - matrix transpose
